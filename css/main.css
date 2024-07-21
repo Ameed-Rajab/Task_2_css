@@ -1,0 +1,14 @@
+.boos {
+    text-align: center;
+}
+P{
+color: darkgray;
+}
+.fl{
+    float:left;
+    width: 33.333%;
+    
+}
+.clear{
+    clear: left;
+}
